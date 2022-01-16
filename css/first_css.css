@@ -1,0 +1,27 @@
+li{
+    color: green;
+}
+
+body{
+    background-color: gray;
+    background-image: url(https://azeheb.com.br/blog/wp-content/uploads/2016/05/f%C3%ADsica-dos-foguetes-768x432.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+h1{
+    border-color: yellow;
+    border-width: 8px;
+    border-style: solid;
+
+    border: 8px solid yellow;
+}
+
+.moon{
+    color: orangered;
+}
+
+#europa-text{
+    color: purple;
+    font-size: 30px;
+}
