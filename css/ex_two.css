@@ -1,0 +1,36 @@
+div{
+    background-color: #fffafa;
+}
+
+h1{
+    font-family: "Montserrat";
+}
+
+.date{
+    font-family: "Roboto";
+    color: lightseagreen;
+   
+}
+
+.post-content{
+}
+
+.post, .post-content{
+    background-color: lightpink;
+}
+
+.post-container{
+    margin: 0px auto 0px auto;
+}
+
+.post{
+    padding: 20px;   
+}
+
+hr{
+    margin: 0px;
+}
+
+body{
+    margin: 0px auto 0px auto;
+    width: 70%;
